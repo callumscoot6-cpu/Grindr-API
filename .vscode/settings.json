@@ -1,0 +1,9 @@
+{
+    "editor.mouseWheelZoom": true,
+    "editor.allowVariableFontsInAccessibilityMode": true,
+    "editor.codeActions.triggerOnFocusChange": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.defaultFormatter": "vscode.ipynb",
+    "editor.formatOnPaste": true,
+    "editor.autoIndentOnPaste": true
+}
